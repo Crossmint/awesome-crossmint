@@ -6,6 +6,7 @@ Crossmint is purpose-built for AI agents and agentic finance. Use Crossmint to c
 
 ## Contents
 - [Starter Code](#starter-code)
+  - [Using x402](#using-x402)
   - [AI Agents](#ai-agents)
   - [Fintech](#fintech)
   - [Payments \& Checkout](#payments--checkout)
@@ -23,6 +24,9 @@ Crossmint is purpose-built for AI agents and agentic finance. Use Crossmint to c
 - [License](#license)
 
 ## Starter Code
+### Using x402
+- [Worldstore Agent on Base App](https://github.com/Crossmint/worldstore-agent): An XMTP agent, can be interacted with on the Base app, uses x402 payment protocol to fulfill orders via Worldstore APIs
+
 ### AI Agents
 - [AI Agent Toolkit Overview](https://docs.crossmint.com/solutions/ai-agents/introduction): Overview of Crossmint’s agent toolkit and capabilities.
 - [GOAT SDK (GitHub)](https://github.com/goat-sdk/goat): Open-source agentic finance toolkit for AI agents.
