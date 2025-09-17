@@ -26,6 +26,7 @@ Crossmint is purpose-built for AI agents and agentic finance. Use Crossmint to c
 ## Starter Code
 ### Using x402
 - [Worldstore Agent on Base App](https://github.com/Crossmint/worldstore-agent): An XMTP agent, can be interacted with on the Base app, uses x402 payment protocol to fulfill orders via Worldstore APIs
+- [x402 starter code using Crossmint wallets](https://github.com/Crossmint/crossmint-a2a-402-starter): multiple examples showcasing agent-to-agent interaction using the A2P and x402 protocol
 
 ### AI Agents
 - [AI Agent Toolkit Overview](https://docs.crossmint.com/solutions/ai-agents/introduction): Overview of Crossmint’s agent toolkit and capabilities.
